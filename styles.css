@@ -245,6 +245,8 @@ nav i:hover{
     margin-bottom: 2em;
 }
 
+
+
 .var-button{
     max-width: 11em;
     font-size: 1.1em;
@@ -252,9 +254,11 @@ nav i:hover{
     border: none;
     color: var(--primary-color);
     border-radius: .3em;
-    padding: .5em 1em;
+    padding: .6em 1em;
     cursor: pointer;
     transition: all .2s ease-in-out;
+    text-align: center;
+    text-decoration: none;
 }
 
 .var-button:hover{
